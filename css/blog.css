@@ -195,7 +195,7 @@ html {
 /* CONTACT */
 .contact-section {
     background-color: #212529;
-    background-image: url("/img/map-image.png");
+    background-image: url("../img/map-image.png");
     background-position: center;
     background-repeat: no-repeat;
     height: 730px;
